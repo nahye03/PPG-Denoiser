@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/14058340/adding-noise-to-a-signal-in-python
+https://github.com/scikit-image/scikit-image/blob/master/skimage/util/noise.py
+https://dsp.stackexchange.com/questions/6103/adding-noise-to-an-ecg-signal
